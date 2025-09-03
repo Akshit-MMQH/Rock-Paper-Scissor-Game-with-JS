@@ -2,8 +2,7 @@ body{
             background-color:rgb(1, 14, 39);
             font-family: Arial;
             color:white;
-            display:flex;
-            justify-content:center;
+            margin-left:480px;
         }
         .images{
             height: 40px;
@@ -39,3 +38,4 @@ body{
             background-color: grey;
 
         }
+
