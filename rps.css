@@ -2,6 +2,8 @@ body{
             background-color:rgb(1, 14, 39);
             font-family: Arial;
             color:white;
+            display:flex;
+            justify-content:center;
         }
         .images{
             height: 40px;
@@ -35,4 +37,5 @@ body{
         }
         .auto-play:hover{
             background-color: grey;
+
         }
